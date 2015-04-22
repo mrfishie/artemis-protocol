@@ -1,0 +1,29 @@
+{
+  "name": "artemis-protocol",
+  "version": "0.1.0",
+  "description": "A low-level implementation of the Artemis protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrfishie/artemis-protocol.git"
+  },
+  "keywords": [
+    "artemis",
+    "protocol",
+    "implementation",
+    "server",
+    "client"
+  ],
+  "authors": [
+    "mrfishie <me@mrfishie.com> (http://mrfishie.com/)",
+    "IvanSanchez <ivan@sanchezortega.es> (http://ivan.sanchezortega.es/)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrfishie/artemis-protocol/issues"
+  },
+  "homepage": "https://github.com/mrfishie/artemis-protocol"
+}
